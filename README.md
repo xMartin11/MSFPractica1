@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Sauceda Gutiérrez Jesús Martin \[23210722]; l23210722@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
