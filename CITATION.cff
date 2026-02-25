@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Diseño de controladores'
+message: Modelado de Sistemas Fisiológicos / Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Jesús M.
+    family-names: Sauceda Gutiérrez
+    email: l23210722@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/xMartin11/MSFPractica1'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/xMartin11/MSFPractica1'
+keywords:
+  - Controlador PID
+  - 'Modelo matemático '
+  - 'Simulaciones numéricas '
+  - Circuito RLC
+  - Diseño de controladores
+version: '1.0'
+date-released: '2026-02-24'
