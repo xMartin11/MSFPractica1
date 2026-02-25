@@ -17,9 +17,10 @@ identifiers:
 repository-code: 'https://github.com/xMartin11/MSFPractica1'
 keywords:
   - Controlador PID
-  - 'Modelo matemático '
-  - 'Simulaciones numéricas '
+  - Simulación en MATLAB/Simulink
+  - Función de transferencia
   - Circuito RLC
   - Diseño de controladores
+license: BSD-2-Clause
 version: '1.0'
 date-released: '2026-02-24'
